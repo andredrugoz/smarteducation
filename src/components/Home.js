@@ -55,7 +55,7 @@ const Home = () => {
       <section className="content-section">
         <h2>Benvenuto su La Mia Educazione Smart</h2>
         <p>Sblocca il potere dell'apprendimento con i nostri corsi online interattivi. Esplora un mondo di conoscenza a portata di clic.</p>
-        <a href="/corsi" className="cta-button">
+        <a href="/courses" className="cta-button">
           Esplora Corsi
         </a>
       </section>
